@@ -7,7 +7,7 @@ Welcome to Stingray's documentation!
 ====================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
 
    stingray/docs/core
    stingray/docs/modeling
@@ -15,6 +15,7 @@ Welcome to Stingray's documentation!
    stingray/docs/simulator
    stingray/docs/api
 
+   tutorials
 
 
 Indices and tables
