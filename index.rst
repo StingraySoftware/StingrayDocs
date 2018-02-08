@@ -6,8 +6,10 @@
 Welcome to Stingray's documentation!
 ====================================
 
+.. include:: stingray/docs/intro
+
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 2
 
    stingray/docs/core
    stingray/docs/modeling
