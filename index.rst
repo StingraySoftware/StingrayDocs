@@ -6,11 +6,10 @@
 Welcome to Stingray's documentation!
 ====================================
 
-.. include:: stingray/docs/intro
-
 .. toctree::
    :maxdepth: 2
 
+   stingray/docs/intro
    stingray/docs/core
    stingray/docs/modeling
    stingray/docs/pulse
