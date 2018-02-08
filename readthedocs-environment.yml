@@ -6,6 +6,8 @@ dependencies:
   - pandoc
   - nbconvert
   - ipykernel
+  - numpy
+  - scipy
+  - matplotlib
   - pip:
     - nbsphinx
-    - sphinx_rtd_theme

@@ -1,3 +1,8 @@
 conda:
-  file: readthedocs-environment.yml
+    file: readthedocs-environment.yml
+
+requirements_file: stingray/requirements.txt
+
+python:
+    setup_py_install: true
 
