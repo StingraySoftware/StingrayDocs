@@ -4,3 +4,6 @@ conda:
 git:
    git submodule update --init --recursive
 
+python:
+   setup_py_install: true
+
