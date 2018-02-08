@@ -6,17 +6,16 @@
 Welcome to Stingray's documentation!
 ====================================
 
+.. include:: stingray/docs/intro.rst
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
-   stingray/docs/intro
-   stingray/docs/core
-   stingray/docs/modeling
-   stingray/docs/pulse
-   stingray/docs/simulator
+   core
+   modeling
+   simulator
+   pulsar
    stingray/docs/api
-
-   tutorials
 
 
 Indices and tables
