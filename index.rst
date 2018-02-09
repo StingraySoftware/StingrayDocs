@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. include:: stingray/docs/intro.rst
+.. include:: stingray/docs/intro.txt
 
 Table of Contents
 =================
