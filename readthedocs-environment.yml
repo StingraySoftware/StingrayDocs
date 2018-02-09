@@ -9,5 +9,10 @@ dependencies:
   - numpy
   - scipy
   - matplotlib
+  - astropy
+  - six
+  - emcee
+  - corner
   - pip:
     - nbsphinx
+    - astropy-sphinx-theme
