@@ -11,5 +11,5 @@ used in practice.
    :maxdepth: 2
 
    notebooks/Pulsar/Pulsar search with epoch folding and Z squared.ipynb
-
+   notebooks/Pulsar/Validate TOA calculation.ipynb
 

@@ -11,6 +11,7 @@ Table of Contents
 .. toctree::
    :maxdepth: 3
 
+   stingray/docs/install
    core
    modeling
    simulator
