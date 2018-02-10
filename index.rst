@@ -15,7 +15,6 @@ Table of Contents
    core
    modeling
    simulator
-   pulsar
    stingray/docs/api
 
 
