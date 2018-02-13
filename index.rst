@@ -4,8 +4,6 @@
    contain the root `toctree` directive.
 
 
-.. include:: stingray/docs/intro.txt
-
 Table of Contents
 =================
 
