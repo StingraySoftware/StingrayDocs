@@ -17,6 +17,7 @@ Table of Contents
    simulator
    pulsar
    stingray/docs/api
+   tutorials
 
 
 Indices and tables
