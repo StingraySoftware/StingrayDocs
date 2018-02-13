@@ -13,6 +13,7 @@ Table of Contents
    :maxdepth: 3
 
    stingray/docs/install
+   core
    stingray/docs/api
 
 
