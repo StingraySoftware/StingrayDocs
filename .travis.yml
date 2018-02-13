@@ -33,7 +33,7 @@ env:
         # For this package-template, we include examples of Cython modules,
         # so Cython is required for testing. If your package does not include
         # Cython code, you can set CONDA_DEPENDENCIES=''
-        - CONDA_DEPENDENCIES='numpy scipy six emcee corner sphinx>=1.4 matplotlib pandoc nbconvert'
+        - CONDA_DEPENDENCIES='numpy scipy six emcee corner ipython sphinx>=1.4 matplotlib pandoc nbconvert'
     matrix:
         # Try all python versions with the latest numpy
         - SETUP_CMD='build_docs -w'
