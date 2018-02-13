@@ -6,6 +6,7 @@ dependencies:
   - pandoc
   - nbconvert
   - ipykernel
+  - matplotlib
   - pip:
     - nbsphinx
     - astropy-sphinx-theme
