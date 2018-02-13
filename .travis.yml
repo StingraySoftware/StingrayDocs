@@ -29,7 +29,7 @@ env:
         # to repeat them for all configurations.
         - ASTROPY_VERSION=stable
         - SETUP_CMD='build_docs -w'
-        - PIP_DEPENDENCIES='nbsphinx astropy-sphinx-theme'
+        - PIP_DEPENDENCIES='nbsphinx astropy-sphinx-theme sphinx_rtd_theme'
         # For this package-template, we include examples of Cython modules,
         # so Cython is required for testing. If your package does not include
         # Cython code, you can set CONDA_DEPENDENCIES=''
@@ -60,8 +60,6 @@ install:
 
     - git clone --depth 1 git://github.com/astropy/ci-helpers.git
     - source ci-helpers/travis/setup_conda.sh
-    - conda config --add channels conda-forge
-    - conda install emcee corner sphinx>=1.4 pandoc nbconvert
 
     # As described above, using ci-helpers, you should be able to set up an
     # environment with dependencies installed using conda and pip, but in some
