@@ -28,7 +28,7 @@ env:
         # overidden underneath. They are defined here in order to save having
         # to repeat them for all configurations.
         - ASTROPY_VERSION=stable
-        - SETUP_CMD='test'
+        - SETUP_CMD='build_docs -w'
         - PIP_DEPENDENCIES='nbsphinx astropy-sphinx-theme'
         # For this package-template, we include examples of Cython modules,
         # so Cython is required for testing. If your package does not include
