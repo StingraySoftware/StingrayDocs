@@ -15,6 +15,7 @@ Table of Contents
    stingray/docs/install
    core
    modeling
+   simulator
    stingray/docs/api
 
 
