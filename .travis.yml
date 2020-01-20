@@ -34,6 +34,7 @@ env:
         # so Cython is required for testing. If your package does not include
         # Cython code, you can set CONDA_DEPENDENCIES=''
         - CONDA_DEPENDENCIES='numpy scipy six emcee corner ipython sphinx>=1.4 matplotlib pandoc nbconvert'
+        - SETUP_XVFB=True
     matrix:
         # Try all python versions with the latest numpy
         - SETUP_CMD='build_docs -w'
