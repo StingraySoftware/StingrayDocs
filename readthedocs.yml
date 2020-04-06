@@ -1,11 +1,14 @@
-conda:
-    file: readthedocs-environment.yml
+#conda:
+#    file: readthedocs-environment.yml
 
 git:
    git submodule update --init --recursive
 
 python:
    setup_py_install: true
+   version: 3.6
+   install:
+       - requirements: requirements.txt
 
 formats:
    - none
