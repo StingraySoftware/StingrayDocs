@@ -2,12 +2,13 @@ channels:
   - conda-forge
 dependencies:
   - python==3.7
-  - sphinx>=1.7
-  - pandoc
-  - nbconvert
-  - ipykernel
-  - matplotlib
-  - scipy
   - pip:
     - nbsphinx
     - astropy-sphinx-theme
+    - sphinx>=1.7
+    - pandoc
+    - nbconvert
+    - ipykernel
+    - matplotlib
+    - scipy
+
