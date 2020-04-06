@@ -10,6 +10,4 @@ dependencies:
     - pandoc
     - nbconvert
     - ipykernel
-    - matplotlib
-    - scipy
 
