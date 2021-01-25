@@ -1,6 +1,0 @@
-[submodule "notebooks"]
-	path = notebooks
-	url = https://github.com/StingraySoftware/notebooks.git
-[submodule "stingray"]
-	path = stingray
-	url = https://github.com/StingraySoftware/stingray
