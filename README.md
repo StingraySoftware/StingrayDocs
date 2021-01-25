@@ -1,4 +1,4 @@
 Stingray Documentation
 ======================
 
-A place for the Stingray documentation on readthedocs
+A deprecated place for the Stingray documentation on readthedocs
